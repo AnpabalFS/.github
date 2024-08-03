@@ -3,7 +3,7 @@
 **ANPABAL** es una asociación deportiva ubicada en Vigo, Galicia, dedicada a fomentar el deporte y los valores en niños y niñas a través del fútbol sala. Nuestra principal misión es proporcionar un espacio seguro y divertido para que los más jóvenes puedan desarrollar sus habilidades y disfrutar del juego en equipo.
 
 ## ¿Quiénes somos?
-Nacimos en 2001 como una extensión de las actividades extraescolares del CEIP Balaidos. Desde entonces, hemos crecido constantemente, ofreciendo programas de fútbol sala para todas las edades, desde los 4 hasta los 18 años. 
+Nacimos en 2001 como una extensión de las actividades extraescolares del CEIP Balaidos. Desde entonces, hemos crecido constantemente, ofreciendo programas de fútbol sala para todas las edades. 
 
 ## Actividades
 * **Fútbol Sala:** Nuestra actividad principal. Ofrecemos entrenamientos adaptados a cada edad y nivel.
