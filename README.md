@@ -1,6 +1,7 @@
 # ANPABAL
-
-![logo](assets/logo.png)
+<div align="center">
+  <img src="assets/logo.png" alt="logo" width="150" height="150" style="border-radius:50%" />
+</div>
 
 **ANPABAL** es una asociación deportiva ubicada en Vigo, Galicia, dedicada a fomentar el deporte y los valores en niños y niñas a través del fútbol sala. Nuestra principal misión es proporcionar un espacio seguro y divertido para que los más jóvenes puedan desarrollar sus habilidades y disfrutar del juego en equipo.
 
