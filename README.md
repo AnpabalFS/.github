@@ -16,6 +16,6 @@ Si a tu hijo/a le apasiona el fútbol sala, no dudes en contactarnos. Ofrecemos 
 **Más información:**
 * **Web:** https://www.anpabal.es
 
-[**Incluir aquí una imagen destacada de un equipo de ANPABAL en acción**]
+![image](assets/bg_1.jpg)
 
 **¡ANPABAL, más que un club, una familia!**
